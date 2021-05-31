@@ -1,2 +1,2 @@
 # Bootstrap ile site tasarımı
-![SS.jpg](img/S.png)
+![SS.png](img/SS.png)
